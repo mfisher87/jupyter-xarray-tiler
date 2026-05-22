@@ -1,6 +1,6 @@
 [project]
 name = "jupyter-xarray-tiler"
-description = "A Jupyter server extension providing a TiTiler server, proxy, and a Python API to add Xarray datasets to the TiTiler server."
+description = "IMPORTANT: This project has been renamed to jupyter-tiler. A Jupyter server extension providing a TiTiler server, proxy, and a Python API to add Xarray datasets to the TiTiler server."
 authors = [
     {name = "GeoJupyter community", email = "geojupyter@gmail.com"},
 ]
